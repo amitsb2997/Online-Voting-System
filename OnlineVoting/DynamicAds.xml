@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>ads/massive-off.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>offers</Keyword>
+    <Impressions>700</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/nano-off.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>offers</Keyword>
+    <Impressions>500</Impressions>
+    
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/office-off.jpg</ImageUrl>
+    <NavigateUrl>http://www.amazon.in</NavigateUrl>
+    <Keyword>offers</Keyword>
+    <Impressions>200</Impressions>
+    <AlternateText></AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/wow-clo.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>clothing</Keyword>
+    <Impressions>500</Impressions>
+    <AlternateText></AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/nike-clo.jpg</ImageUrl>
+    <NavigateUrl>http://www.nike.com/india</NavigateUrl>
+    <Keyword>clothing</Keyword>
+    <Impressions>200</Impressions>
+    <AlternateText>just do it</AlternateText>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>ads/tabs-ele.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>electronics</Keyword>
+    <Impressions>800</Impressions>
+    <AlternateText></AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/vacuum-ele.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>electronics</Keyword>
+    <Impressions>200</Impressions>
+    <AlternateText></AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>ads/toys-toys.jpg</ImageUrl>
+    <NavigateUrl>http://www.flipkart.com</NavigateUrl>
+    <Keyword>toys</Keyword>
+    <Impressions>400</Impressions>
+    <AlternateText></AlternateText>
+  </Ad>
+  
+</Advertisements>
